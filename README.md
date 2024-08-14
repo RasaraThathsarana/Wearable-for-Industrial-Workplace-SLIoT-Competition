@@ -1,5 +1,11 @@
 # Overview
 
+This is a project done for the SLIoT 2023 competition. A wearable was built with the capabilites 
+of measuring Body Temperature, Blood Oxygen Level, Ambient Temperature, Humidity, Ambient Noise 
+Level, and Harmful Gas(Carbon, Nitrogen based gases) Monitoring. The sensor data is sent to a 
+central database where the monitoring happens. In case of a trigger the user, supervisors, and 
+emergency personnel are notified.
+
 ![image](https://github.com/user-attachments/assets/24d0b89f-ee03-4e77-abc3-43c007922aa8)
 
 ![image](https://github.com/user-attachments/assets/a47561ce-2cfc-48b5-848c-c0905033d406)
