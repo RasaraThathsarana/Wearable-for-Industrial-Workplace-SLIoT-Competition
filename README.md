@@ -60,7 +60,7 @@ To set up the project locally, you need the following software installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/workplace-safety-wearable.git
+   git clone https://github.com/k-ranasinghe/workplace-safety-wearable.git
    ```
 
 2. **Install Node.js dependencies**:
