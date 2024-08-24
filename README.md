@@ -60,7 +60,7 @@ To set up the project locally, you need the following software installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/k-ranasinghe/Wearable-for-Industrial-Workplace-SLIoT-Competition.git
+   git clone https://github.com/RasaraThathsarana/Wearable-for-Industrial-Workplace-SLIoT-Competition.git
    ```
 
 2. **Install Node.js dependencies**:
